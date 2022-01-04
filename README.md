@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ankur7-7
-- 👀 I’m interested in open source programming.
+- 👋 Hi, I’m Ankur Aggarwal.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on any DSA based projects.
 
